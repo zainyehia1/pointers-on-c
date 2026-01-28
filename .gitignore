@@ -1,3 +1,8 @@
+# CLion/JetBrains IDEs
+.idea/
+cmake-build-*/
+CMakeLists.txt
+
 # Prerequisites
 *.d
 
